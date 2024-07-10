@@ -126,6 +126,7 @@
     }
     .downloadNowButton{
         width: 30vw;
+        margin-right: 2rem;
     }
     .featureshead{
         height: 2rem;
