@@ -21,7 +21,7 @@ function KeyFeatures() {
             </div>
             <div className='w-[30rem] h-[16rem] bg-[#FFCE31] ml-8 flex flex-col justify-start items-center text-center rounded-br-3xl border-b-8 border-r-8 border-black borderBox box bordergiven1'>
                 <img src='recommender.svg' className='mt-4 h-[3rem] featureshead'/>
-                <p className='mt-4 text-black font-medium font-poppins text-lg'>Explore a dedicated marketplace for<br/> book-related products, including<br/> accessories like bookmarks and book<br/> covers.</p>
+                <p className='mt-4 text-black font-medium font-poppins text-lg'>Get personalized book recommendations<br/> powered by generative AI, tailored to your<br/> preferences and reading history.</p>
             </div>
       </div>
     </div>
