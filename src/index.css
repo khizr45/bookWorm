@@ -41,7 +41,7 @@
     }
     .firstbox{
         width: 65%;
-        height: 40vh;
+        height: 45vh;
     }
     .aboutusHeight{
         height: 160vh;
@@ -118,5 +118,10 @@
     }
     .headtopwidth{
         width: 70vw;
+    }
+    .bordergiven1{
+        border-radius: 20px;
+        /* border: solid 8px black; */
+        box-shadow: 3px 3px 3px 3px black;
     }
 }
