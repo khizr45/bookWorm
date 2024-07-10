@@ -26,7 +26,7 @@ function Navbar() {
         <h3 className='text-white font-poppins ml-8 cursor-pointer'>Home</h3>
         <h3 className='text-white font-poppins ml-8 cursor-pointer' onClick={()=>{scrollToAbout('about')}}>About</h3>
         <h3 className='text-white font-poppins ml-8 cursor-pointer' onClick={()=>{scrollToAbout('features')}}>Features</h3>
-        <h3 className='text-white font-poppins ml-8 cursor-pointer' onClick={()=>{scrollToAbout('download')}}>Download Now</h3>
+        <h3 className='text-white font-poppins ml-8 cursor-pointer downloadNowButton' onClick={()=>{scrollToAbout('download')}}>Download Now</h3>
       </div>
       <div className='w-[20%]'></div>
     </div>
