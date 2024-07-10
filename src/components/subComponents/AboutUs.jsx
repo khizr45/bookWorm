@@ -3,9 +3,9 @@ import React from 'react'
 function AboutUs() {
   return (
     <div className='h-[80vh] aboutusHeight p-4'>
-      <img src='aboutus.svg' className='ml-40 aboutusSvg aboutusPic'/>
+      <img src='aboutus.svg' className='ml-40 aboutusPic'/>
       <div className='flex justify-around items-center w-[98.7vw] aboutus'>
-        <p className='ml-24 font-poppins text-white font-normal mb-20 aboutusSvg'>Bookworm is a comprehensive platform designed for<br/> book enthusiasts. It offers a seamless experience for<br/> buying, renting, and borrowing books from fellow<br/> users. Our application goes beyond transactions by<br/> fostering a lively community for book discussions,<br/> reviews, and recommendations. With transparent<br/> pricing and a focus on book condition, Bookworm<br/> ensures you make informed decisions.</p>
+        <p className='ml-24 font-poppins text-white font-normal mb-20 aboutusSvg w-[30vw] aboutuspara'>Bookworm is a comprehensive platform designed for book enthusiasts. It offers a seamless experience for buying, renting, and borrowing books from fellow users. Our application goes beyond transactions by fostering a lively community for book discussions, reviews, and recommendations. With transparent pricing and a focus on book condition, Bookworm ensures you make informed decisions.</p>
         <div className='flex justify-between items-center w-[45%] mt-4 aboutus gap-8'>
             <div className='flex flex-col justify-start items-center w-[70%] h-[60vh] border-4 border-[#FFCE31] rounded-lg firstbox'>
                 <img src='visionlogo.svg' className='mt-4'/>
