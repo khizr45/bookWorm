@@ -28,6 +28,7 @@
     }
     .heropara{
         width: 60vw;
+        margin-left: 0;
     }
     .buttons{
         flex-direction: column;
@@ -40,7 +41,8 @@
         width: 100%;
     }
     .firstbox{
-        width: 65%;
+        margin-right: 4rem;
+        width: 50%;
         height: 55vh;
     }
     .aboutusHeight{
@@ -48,6 +50,7 @@
     }
     .aboutuspara{
         width: 70vw;
+        margin-left: 7rem;
     }
     .extra{
         display: none;
