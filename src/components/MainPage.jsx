@@ -22,9 +22,9 @@ function MainPage() {
   return (
     <div className='flex flex-col'>
       <Navbar scroll = {scroller}/>
-      <div className='w-[98.7vw] h-[20vh] bg-[#3B3B3B] extra'>
+      {/* <div className='w-[98.7vw] h-[20vh] bg-[#3B3B3B] extra'>
 
-      </div>
+      </div> */}
       <Hero/>
       <div className='w-[98.7vw]  bg-[#C81243] flex items-center aboutus' ref={aboutRef} id='about'>
         <AboutUs/>
